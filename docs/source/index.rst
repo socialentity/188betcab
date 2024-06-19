@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+188BET - 188bet.cab - Điểm Đến Hàng Đầu Cho Cá Cược Trực Tuyến
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+188Bet, điểm đến hàng đầu cho cá cược trực tuyến và trải nghiệm cá độ thể thao chất lượng. Tại 188Bet, bạn sẽ được trải nghiệm những sảnh game nổi bật với các trò chơi phổ biến và phong phú, đặc biệt là những trò nổ hũ đa dạng, đem lại cơ hội thắng lớn cho người chơi. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Với sự đa dạng của các sự kiện thể thao, tỷ lệ cược cạnh tranh, và dịch vụ khách hàng xuất sắc, 188Bet cam kết mang lại cho bạn trải nghiệm cá cược tốt nhất và hài lòng nhất. Hãy cùng khám phá và tận hưởng những phút giây giải trí đỉnh cao tại 188Bet!
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 111 Ng. 2 P. Trần Cung, Nghĩa Tân, Từ Liêm, Hà Nội. 
 
-Contents
---------
+Phone: 0378948928. 
 
-.. toctree::
+Email: 188bet.cab@gmail.com. 
 
-   usage
-   api
+Website: https://188bet.cab/
+
+#188bet #trangchu188bet #link188bet #nhacai188bet #dangky188bet
